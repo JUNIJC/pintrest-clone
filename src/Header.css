@@ -1,0 +1,16 @@
+app_header {
+    height: 80px;
+    background-color: aqua;
+    justify-content: center;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.header_wrapper {
+    display: flex;
+    align-items: center;
+    height: 56px;
+    background-color: blueviolet;
+    color: black;
+    margin: 0px;
+}
